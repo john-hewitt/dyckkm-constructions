@@ -1,7 +1,12 @@
 ###
 
-Anonymous code implementing Simple RNN and LSTM constructions
-generating Dyck-(k,m)
+Code implementing Simple RNN and LSTM constructions that generate Dyck-(k,m)
+
+As described in the paper
+
+> RNNs can generate bounded hierarchical structure with optimal memory. <br>
+> John Hewitt, Michael Hahn, Surya Ganguli, Percy Liang, Christopher D. Manning <br>
+> Empirical Methods in Natural Language Processing (EMNLP) 2020. <br>
 
 ## Getting started
 
